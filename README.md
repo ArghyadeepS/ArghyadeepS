@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Arghyadeep Sen</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Arghyadeep+Sen;Full+Stack+Developer;AI+%26+Web+Enthusiast;Always+Building+%26+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Arghyadeep+Sen;Full+Stack+Developer;AI+%26+Web+Enthusiast;Always+In+Debug+Mode!" />
 </p>
 
 --- 
@@ -12,7 +12,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React JS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
@@ -34,26 +33,19 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
-
 ---
 
-
-
-
-
-
----
 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="[https://in.linkedin.com/in/arghyadeep-sen-b992a632a]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <!-- <a href="https://x.com/DebDevZone"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
+  <a href="https://in.linkedin.com/in/arghyadeep-sen-b992a632a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:arghya.codes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://discord.com/users/765827329648754708"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <!-- <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
+
 </p>
 
 ---
 
-⭐ **Star the repo and follow me — makes my GitHub look less lonely** 🌟
+🌟 **Star the repo and follow me — makes my GitHub look less lonely** 😅🌟
