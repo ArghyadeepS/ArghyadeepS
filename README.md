@@ -55,4 +55,4 @@
 
 ---
 
-⭐ **If you like my work, feel free to star this repo and follow me!** 🌟
+⭐ **Star the repo and follow me — makes my GitHub look less lonely** 🌟
