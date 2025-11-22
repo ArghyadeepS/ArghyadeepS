@@ -1,7 +1,7 @@
-<!-- <h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Arghyadeep Sen</a> 👋</h1> -->
+<h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Arghyadeep Sen</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Hey+there+I'm+Arghyadeep+👋;Full+Stack+Developer;AI+%26+Web+Enthusiast;Always+In+Debug+Mode!+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4070f4&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Blockchain+Enthusiast!;Crafting+Cool+%26+Practical+Solutions" />
 </p>
 
 --- 
