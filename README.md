@@ -48,4 +48,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArghyadeepS&theme=github-compact" alt="Activity Graph" />
+</p>
+
+
+---
+
 🌟 **Star the repo and follow me — makes my GitHub look less lonely** 😅🌟
