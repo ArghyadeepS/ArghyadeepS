@@ -39,6 +39,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -51,13 +52,12 @@
 
 <div align="center">
   <a href="https://github.com/ArghyadeepS">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArghyadeepS&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArghyadeepS&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArghyadeepS&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArghyadeepS&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArghyadeepS&theme=2077" height="180em" />
-</a>
-</div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArghyadeepS&theme=2077" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArghyadeepS&theme=2077" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArghyadeepS&theme=2077"  />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArghyadeepS&theme=2077"  />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArghyadeepS&theme=2077"  />
+</a></div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArghyadeepS&theme=github-dark" alt="Activity Graph" />
